@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/36tyof58a_y_u.css","style"]
-:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/6e7755c9813efd51-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Gym-website/_next/static/chunks/36tyof58a_y_u.css","style"]
+:HL["/Gym-website/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Gym-website/_next/static/media/6e7755c9813efd51-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"b-mr7nTG57qbWk7Oe1eoS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"eo5u4tu3pScJ672xhfmN8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
